@@ -1,0 +1,8 @@
+table "flywayapdev"."renetest" {
+  columns = (
+    column "rene" {
+      type = varchar(100)
+    }
+  )
+}
+
